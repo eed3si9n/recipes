@@ -27,66 +27,66 @@ serves 4
 ## methods
 
 1. finely chop the scallions.    <br>
-   <img src="/images/mapo-step1.jpg"/>
-   <img src="/images/mapo-step1b.jpg"/>
+   <img src="/recipe/images/mapo-step1.jpg"/>
+   <img src="/recipe/images/mapo-step1b.jpg"/>
 
 2. peel garlic, equivalent amount of ginger, and grate them both.     <br>
-   <img src="/images/mapo-step2.jpg"/>
-   <img src="/images/mapo-step2b.jpg"/>
+   <img src="/recipe/images/mapo-step2.jpg"/>
+   <img src="/recipe/images/mapo-step2b.jpg"/>
 
 3. microwave water with the vegetable bouillon for 2 minutes, and crush the bouillon.    <br>
-   <img src="/images/mapo-step3.jpg"/>
+   <img src="/recipe/images/mapo-step3.jpg"/>
 
 4. add tianmianjiang, sake, and soy sauce to the soup base.    <br>
-   <img src="/images/mapo-step4.jpg"/>
+   <img src="/recipe/images/mapo-step4.jpg"/>
 
 5. set aside doubanjiang in a small bowl.   <br>
-   <img src="/images/mapo-step5.jpg"/>
+   <img src="/recipe/images/mapo-step5.jpg"/>
 
 6. finely chop red chilies into rings.   <br>
-   <img src="/images/mapo-step6.jpg"/>
+   <img src="/recipe/images/mapo-step6.jpg"/>
 
 7. grind huajiao using mortar and pestle.   <br>
-   <img src="/images/mapo-step7.jpg"/>
-   <img src="/images/mapo-step7b.jpg"/>
+   <img src="/recipe/images/mapo-step7.jpg"/>
+   <img src="/recipe/images/mapo-step7b.jpg"/>
 
 8. open Smart Ground from the package, and cut it half.    <br>
-   <img src="/images/mapo-step8.jpg"/>
+   <img src="/recipe/images/mapo-step8.jpg"/>
 
 9. open silken tofu packages, drain excess water, and cut them into 3 cm (1.2 inch) cubes.
       
 10. heat a wok on medium high, add vegetable oil, and fry grated ginger, garlic and *half* of the scallions.   <br>
-    <img src="/images/mapo-step10.jpg"/>
+    <img src="/recipe/images/mapo-step10.jpg"/>
 
 11. once you start smelling the garlic (30 sec), make some room in the wok, and add in doubanjiang.    <br>
-    <img src="/images/mapo-step11.jpg"/>
+    <img src="/recipe/images/mapo-step11.jpg"/>
 
 12. let doubanjiang cook till the bottom changes color and sticks to the wok. (about 1 min) using ladle or spatula scrape the paste off the wok.
 
 13. add Smart Ground to the wok, crush them into pieces, mix well, and let it cook until the bottom part is crisply browned.   <br>
-    <img src="/images/mapo-step13.jpg"/>
-    <img src="/images/mapo-step13b.jpg"/>
+    <img src="/recipe/images/mapo-step13.jpg"/>
+    <img src="/recipe/images/mapo-step13b.jpg"/>
 
 14. add soup base to the wok, mix well, and bring it to a boil.   <br>
-    <img src="/images/mapo-step14.jpg"/>
+    <img src="/recipe/images/mapo-step14.jpg"/>
     
 15. carefully slide in the tofu, gently mix them so they are covered in soup, drop the heat to medium low, and stew for 2 minutes.    <br>
-    <img src="/images/mapo-step15.jpg"/>
+    <img src="/recipe/images/mapo-step15.jpg"/>
     
 16. while tofu is cooking, mix cornstarch with equivalent amount of water, mix well and set aside.   <br>
-    <img src="/images/mapo-step16.jpg"/>
+    <img src="/recipe/images/mapo-step16.jpg"/>
 
 17. remove the tofu from heat, pour the cornstarch all around, and quickly mix it in.    <br>
-    <img src="/images/mapo-step17.jpg"/>
+    <img src="/recipe/images/mapo-step17.jpg"/>
 
 18. put the tofu on high heat till the soup comes to a simmer and thickens.
 
 19. turn off the heat, and drizzle sesame oil all around.    <br>
-    <img src="/images/mapo-step19.jpg"/>
-    <img src="/images/mapo-step19b.jpg"/>
+    <img src="/recipe/images/mapo-step19.jpg"/>
+    <img src="/recipe/images/mapo-step19b.jpg"/>
 
 20. serve with the other half of the scallion and ground huajiao.    <br>
-    <img src="/images/mapodoufu.jpg"/>
+    <img src="/recipe/images/mapodoufu.jpg"/>
 
 ## notes
 
