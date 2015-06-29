@@ -7,6 +7,9 @@ Vegetarian Mapo Doufu
 
 serves 4
 
+<p><script src="files/hide.js"></script>
+<a href="#" onclick="hidepictures();" id="hider">simple view</a></p>
+
 ### ingredients
 
 - 4 scallions

@@ -7,6 +7,9 @@ Aloo Gobi (Cauliflower with Potatoes)
 
 serves 6
 
+<p><script src="files/hide.js"></script>
+<a href="#" onclick="hidepictures();" id="hider">simple view</a></p>
+
 ### ingredients
 
 - 1 cauliflower

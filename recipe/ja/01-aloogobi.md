@@ -7,6 +7,9 @@ out: aloogobi.html
 
 6人分
 
+<p><script src="../files/hide.js"></script>
+<a href="#" onclick="hidepictures();" id="hider">シンプルビュー</a></p>
+
 ### 材料
 
 - カリフラワー 1つ
