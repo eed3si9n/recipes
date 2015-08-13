@@ -2,7 +2,7 @@
 out: meatless-meat-sauce.html
 ---
 
-Meatless Meat Sauce
+Meatless meat sauce
 -------------------
 
 serves 6?
