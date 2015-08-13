@@ -2,7 +2,7 @@
 out: sauteed-water-spinach.html
 ---
 
-Sauted water spinach
+Sauteed water spinach
 --------------------
 
 serves 2
