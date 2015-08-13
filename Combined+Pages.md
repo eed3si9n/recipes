@@ -234,7 +234,7 @@ I cooked stuffed shells, stuffed them with 1 tsp of greek yogurt each, and poure
 <img src="files/mms-008.jpg"/><img src="files/mms-008b.jpg"/>
 
 
-Sauted water spinach
+Sauteed water spinach
 --------------------
 
 serves 2
