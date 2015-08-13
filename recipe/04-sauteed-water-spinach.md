@@ -1,5 +1,5 @@
 ---
-out: sauted-water-spinach.html
+out: sauteed-water-spinach.html
 ---
 
 Sauted water spinach

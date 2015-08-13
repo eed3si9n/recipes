@@ -1,5 +1,5 @@
 ---
-out: sauted-water-spinach.html
+out: sauteed-water-spinach.html
 ---
 
 空芯菜の炒めもの
