@@ -178,3 +178,103 @@ getting the ingredients may be challenging for some of you. most of them should 
 - [Smart Ground Original](http://www.lightlife.com/Vegan-Food-Vegetarian-Diet/Smart-Grounds-Original)
 - [Kadoya Brand Sesame Oil 11 Oz.](http://www.amazon.com/dp/B002HMN6SC)
 
+
+
+Meatless meat sauce
+-------------------
+
+serves 6?
+
+<p><script src="files/hide.js"></script>
+<a href="#" onclick="hidepictures();" id="hider">simple view</a></p>
+
+### ingredients
+
+- 2 large or 3 small vidalia onions
+- 3 cloves of garlic crushed and chopped
+- 1 can of Cento San Marzano Peeled Tomatoes
+- 1 can of Cento Tomato Paste 6oz
+- 1 pack of Lightlife Smart Ground Original
+- 2 tbsp of aged balsamic vineger
+- 1 cup of water
+- 1/4 cup of olive oil
+- red chili flakes to taste
+- 2 pinches of salt
+- (pasta of your choice)
+- (1 cup greek yogurt)
+- (parmesan cheese)
+
+### steps
+
+1. start boiling water (not listed) for pasta.
+
+2. cut the onions in half, and then slice them.<br>
+   <img src="files/mms-001.jpg"/>
+
+3. in a large pot or Dutch oven, fry the onion with the olive oil until translucent. about 4 min.
+
+4. add chopped garlic and Smart Ground crumbled with spatula into the pot, and mix well.
+
+5. add balsamic vineger, salt and chili flakes and sauté them for a minute.<br>
+   <img src="files/mms-004.jpg"/>
+
+6. empty the whole tomato into a bowl, and crush them by hand into bite size chunks.
+
+7. add the crushed tomato with juice and tomato paste into the pot and mix well.<br>
+   <img src="files/mms-006.jpg"/><img src="files/mms-006b.jpg"/>
+
+8. add water into the pot and mix well.<br>
+  <img src="files/mms-007.jpg"/><img src="files/mms-007b.jpg"/>
+
+9. cook the sauce in medium heat for 7 minutes, stiring frequently.
+
+10. follow the instruction to cook the pasta in plenty of water with a handful of sea salt.
+
+I cooked stuffed shells, stuffed them with 1 tsp of greek yogurt each, and poured the sauce over.<br>
+<img src="files/mms-008.jpg"/><img src="files/mms-008b.jpg"/>
+
+
+Sauted water spinach
+--------------------
+
+serves 2
+
+<p><script src="files/hide.js"></script>
+<a href="#" onclick="hidepictures();" id="hider">simple view</a></p>
+
+### ingredients
+
+- 1 bunch of water spinach (kongxincai), cut into 3 inches (8cm)
+- 1 clove of garlic, finely chopped
+- 1/2 tsp red chili, cut in rings
+- 1 tbsp vegetarian oyster sauce
+- 1 tsp sugar
+- 2 tbsp sake
+- sesame
+- sesame oil
+
+### steps
+
+water spinach (kongxincai) grows in muddy water, and is delicate to cold temperature of the fridge.
+wash well after cutting it into smaller pieces. throw out any damaged stems or leaves.<br>
+<img src="files/sws-000.jpg"/>
+
+1. mix sugar and vegetarian oyster sauce in a small bowl.<br>
+   <img src="files/sws-001.jpg"/>
+
+2. heat the wok, and put enough sesame oil to cover the surface.
+
+3. fry garlic in the wok.<br>
+   <img src="files/sws-003.jpg"/>
+
+4. put in the stem part of the water spinach with red chili, and stir fry for a minute on medium-high heat.<br>
+   <img src="files/sws-004.jpg"/>
+
+5. put the rest of the water spinach. mix well to coat in oil.
+
+6. put in sake, and increase the heat to cook off the alcohol.
+
+7. put in the oyster sauce and mix.
+
+8. serve with sesame on top.<br>
+   <img src="files/sws-008.jpg"/>
