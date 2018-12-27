@@ -1,5 +1,5 @@
 ---
-out: brussel-sprounts-salad.html
+out: brussel-sprouts-salad.html
 ---
 
 芽キャベツのサラダ

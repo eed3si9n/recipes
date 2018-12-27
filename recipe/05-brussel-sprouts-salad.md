@@ -1,5 +1,5 @@
 ---
-out: brussel-sprounts-salad.html
+out: brussel-sprouts-salad.html
 ---
 
 Holiday Brussel sprouts salad
@@ -43,6 +43,6 @@ dressing
 - cover the sprouts with a lid or plastic wrap, and let it stand in the fridge for 1h ~ overnight. take it out 1h before serving.
 - saute the mushroom with salt and pepper, and mix with the salad
 - dice the apple, and squeeze 1/2 of lemon juice over it in a bowl, then mix it into the salad
-- serve the salad in a large salad bowl, and garnish with dried cramberries and pencan
+- serve the salad in a large salad bowl, and garnish with dried cranberries and pecan
 
 <img src="files/brussel-sprouts-salad.jpg" style="width:100%"/>
