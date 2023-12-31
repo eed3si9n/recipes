@@ -10,14 +10,14 @@ serves 2
 ### ingredients
 
 - soup:
-    - 600ml [vegan dashi](vegan-dashi.html)
+    - 600ml [vegan dashi](vegan-dashi.html) (500ml kombu + 100ml shiitake)
     - 50ml soy sauce
     - 20ml mirin
     - salt to taste
 - soba:
     - 2 servings of dried soba
 - toppings:
-    - boiled fernbrake, cut bite size (optional)
+    - a few boiled fernbrake, cut bite size (optional)
     - daikon grated (optional)
     - shichimi togarashi
     - 1 scallions, thinly chopped
